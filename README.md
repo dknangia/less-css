@@ -4,7 +4,7 @@ Install less npm moudule by
 
 npm install -g less
 
-#Compilation
+# Compilation
 
 npm lessc /site.less /site.css
 
