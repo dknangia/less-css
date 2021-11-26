@@ -2,7 +2,11 @@
 
 Install less npm moudule by 
 
-npm install -g less
+npm install -g less  // This will install less module at global level
+
+npm install less // This will install less module at folder/project level
+
+
 
 # Compilation
 
